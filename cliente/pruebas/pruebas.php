@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>holi</title>
     <style media="screen">
       text{
         font-size: 10px;
